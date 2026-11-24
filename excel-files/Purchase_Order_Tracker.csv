@@ -1,0 +1,11 @@
+PO Number,Vendor,PO Date,SKU,Item Description,Ordered Qty,Unit Cost (₹),Received Qty,Pending Qty,PO Value (₹),Received Value (₹),PO Status
+PO-2026-001,Apex Stationery,2026-10-12,SKU-1001,Wireless Mouse,24,650,12,12,15600,7800,Partial
+PO-2026-002,Vertex Traders,2026-11-08,SKU-1005,Laptop Stand,14,1100,0,14,15400,0,Open
+PO-2026-003,Apex Stationery,2026-11-08,SKU-1006,A4 Copier Paper,50,280,37,13,14000,10360,Partial
+PO-2026-004,BluePeak Systems,2026-10-13,SKU-1002,USB Keyboard,59,950,59,0,56050,56050,Complete
+PO-2026-005,Apex Stationery,2026-10-01,SKU-1001,Wireless Mouse,100,650,75,25,65000,48750,Partial
+PO-2026-006,Vertex Traders,2026-10-24,SKU-1009,Ethernet Cable 5m,97,180,24,73,17460,4320,Partial
+PO-2026-007,BluePeak Systems,2026-11-09,SKU-1002,USB Keyboard,95,950,47,48,90250,44650,Partial
+PO-2026-008,Vertex Traders,2026-10-20,SKU-1002,USB Keyboard,48,950,48,0,45600,45600,Complete
+PO-2026-009,Metro Office Mart,2026-11-05,SKU-1006,A4 Copier Paper,61,280,30,31,17080,8400,Partial
+PO-2026-010,Metro Office Mart,2026-11-13,SKU-1004,USB-C Hub,63,1450,47,16,91350,68150,Partial
