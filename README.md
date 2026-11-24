@@ -39,7 +39,7 @@ The CSV files below contain fictional sample data and open directly in Microsoft
 
 ## Full Excel Workbooks
 
-The full multi-sheet Excel versions, with formulas and formatted worksheets, are available in the downloadable project package accompanying this profile.
+The full multi-sheet Excel workbooks are shared separately with the repository owner. This repository currently publishes the lightweight CSV sample extracts listed above.
 
 ## Data Disclaimer
 
