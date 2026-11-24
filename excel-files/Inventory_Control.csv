@@ -1,0 +1,11 @@
+SKU,Item Name,Category,UOM,Opening Qty,Received Qty,Issued Qty,Closing Qty,Reorder Level,Unit Cost (₹),Stock Value (₹),Stock Status
+SKU-1001,Wireless Mouse,Accessories,Nos,50,20,18,52,15,650,33800,OK
+SKU-1002,USB Keyboard,Accessories,Nos,40,15,22,33,12,950,31350,OK
+SKU-1003,HDMI Cable 2m,Cables,Nos,70,30,55,45,20,220,9900,OK
+SKU-1004,USB-C Hub,Accessories,Nos,25,10,16,19,10,1450,27550,OK
+SKU-1005,Laptop Stand,Ergonomics,Nos,20,8,12,16,8,1100,17600,OK
+SKU-1006,A4 Copier Paper,Stationery,Ream,100,40,85,55,30,280,15400,OK
+SKU-1007,Permanent Marker,Stationery,Nos,120,60,105,75,35,35,2625,OK
+SKU-1008,Laser Toner Black,Printing,Nos,18,6,17,7,8,3200,22400,REORDER
+SKU-1009,Ethernet Cable 5m,Cables,Nos,45,20,32,33,15,180,5940,OK
+SKU-1010,Power Strip 6A,Electrical,Nos,30,10,24,16,10,420,6720,OK
