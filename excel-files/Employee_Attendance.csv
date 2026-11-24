@@ -1,0 +1,11 @@
+Attendance Date,Employee ID,Employee Name,First In,Last Out,Work Hours,Attendance Status,Late Minutes
+2026-11-02,EMP001,Aarav Sharma,09:00,18:25,9.42,Present,0
+2026-11-02,EMP002,Priya Nair,09:25,18:05,8.67,Present,25
+2026-11-02,EMP003,Rohan Verma,09:12,18:00,8.8,Present,12
+2026-11-02,EMP004,Ananya Iyer,09:05,18:15,9.17,Present,5
+2026-11-02,EMP005,Kabir Mehta,09:05,18:05,9,Present,5
+2026-11-02,EMP006,Sneha Rao,09:18,18:00,8.7,Present,18
+2026-11-02,EMP007,Ishaan Patel,09:02,18:10,9.13,Present,2
+2026-11-02,EMP008,Meera Joshi,09:12,18:00,8.8,Present,12
+2026-11-02,EMP009,Arjun Singh,09:02,18:15,9.22,Present,2
+2026-11-02,EMP010,Diya Kulkarni,09:12,18:25,9.22,Present,12
